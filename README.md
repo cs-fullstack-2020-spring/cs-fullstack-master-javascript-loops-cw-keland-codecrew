@@ -41,9 +41,9 @@ HIGH SCORES
 ### Exercise A:
 - Print -10 through 5 using a counter and while loop.
 
-### Exercise B:
+<!-- ### Exercise B:
 - Write a While loop that counts backwards from 10 to 0
-- Log the current count at the end of each iteration EXCEPT if the current count is ```5```
+- Log the current count at the end of each iteration EXCEPT if the current count is ```5``` -->
 
 ### Exercise C:
 - Create an empty `name_array`
